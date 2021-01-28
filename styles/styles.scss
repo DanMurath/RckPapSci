@@ -1,0 +1,19 @@
+@import 'scores';
+@import 'intro';
+@import 'match';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  background: #272944;
+  height: 100%;
+  font-family: sans-serif;
+}
